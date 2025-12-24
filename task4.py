@@ -15,4 +15,5 @@ g = GCD(num, den)
 num //= g
 den //= g
 
-print("Result:", num, "/", den)
+print(num, "/", den)
+
