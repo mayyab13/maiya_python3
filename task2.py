@@ -5,5 +5,4 @@ def triangle_area(a):
 
 a = float(input("side of hexagon: "))
 hexagon_area = 6 * triangle_area(a)
-print("Hexagon area:", hexagon_area)
-print("Area calculated successfully.")
+print(hexagon_area)
